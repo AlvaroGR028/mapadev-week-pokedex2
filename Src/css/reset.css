@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* Asterisco fala que quer que essas propriedades sejam aplicadas a todos os elementos*/
+
+/*ajuda a ajustar elementos dentro de um tamanho especifico*/
+
+/*retira todo estilo padrão das listas*/
